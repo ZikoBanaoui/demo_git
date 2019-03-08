@@ -1,3 +1,5 @@
 # demo_git
-une demo de git qui se bien
-Commande ECHO activ‚e.
+une demo de git qui se passe bien
+
+
+et maintenant on modifier depuis github
